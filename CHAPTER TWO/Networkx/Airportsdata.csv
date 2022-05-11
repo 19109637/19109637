@@ -1,0 +1,151 @@
+﻿rank,name,airport,country,passengers,year
+1,1,China Guangzhou Baiyun International Airport,China,43760427,2020
+2,2,United States Hartsfield–Jackson Atlanta International Airport,United States,42918685,2020
+3,3,China Chengdu Shuangliu International Airport,China,40741509,2020
+4,4,United States Dallas/Fort Worth International Airport,United States,39364990,2020
+5,5,China Shenzhen Bao'an International Airport,China,37916059,2020
+6,6,China Chongqing Jiangbei International Airport,China,34937789,2020
+7,7,China Beijing Capital International Airport,China,34513827,2020
+8,8,United States Denver International Airport,United States,33741129,2020
+9,9,China Kunming Changshui International Airport,China,32989127,2020
+10,10,China Shanghai Hongqiao International Airport,China,31165641,2020
+11,11,China Xi'an Xianyang International Airport,China,31073884,2020
+12,12,Japan Tokyo Haneda Airport,Japan,30965027,2020
+13,13,United States O'Hare International Airport,United States,30860251,2020
+14,14,China Shanghai Pudong International Airport,China,30476531,2020
+15,15,United States Los Angeles International Airport,United States,28779527,2020
+16,16,India Indira Gandhi International Airport,India,28501000,2020
+17,17,China Hangzhou Xiaoshan International Airport,China,28224342,2020
+18,18,United States Charlotte Douglas International Airport,United States,27200000,2020
+19,19,United Arab Emirates Dubai International Airport,United Arab Emirates,25900000,2020
+20,20,Turkey Istanbul Airport,Turkey,23409000,2020
+21,21,France Charles de Gaulle Airport,France,22257469,2020
+22,22,United Kingdom Heathrow Airport,United Kingdom,22109726,2020
+23,23,Mexico Mexico City International Airport,Mexico,21981711,2020
+24,24,United States Phoenix Sky Harbor International Airport,United States,21928708,2020
+25,25,Vietnam Tan Son Nhat International Airport,Vietnam,21900000,2020
+26,26,United States Orlando International Airport,United States,21617803,2020
+27,27,China Zhengzhou Xinzheng International Airport,China,21406709,2020
+28,28,South Korea Jeju International Airport,South Korea,21054696,2020
+29,29,Netherlands Amsterdam Airport Schiphol,Netherlands,20887174,2020
+30,30,Brazil São Paulo/Guarulhos International Airport,Brazil,20322520,2020
+31,31,United States Seattle–Tacoma International Airport,United States,20061507,2020
+32,32,China Nanjing Lukou International Airport,China,19906576,2020
+33,33,Russia Sheremetyevo International Airport,Russia,19784000,2020
+34,34,China Changsha Huanghua International Airport,China,19223825,2020
+35,35,Germany Frankfurt Airport,Germany,18770998,2020
+36,36,United States Miami International Airport,United States,18663858,2020
+37,37,United States George Bush Intercontinental Airport,United States,18213571,2020
+38,38,South Korea Gimpo International Airport,South Korea,17446239,2020
+39,39,Spain Madrid Barajas Airport,Spain,17112000,2020
+40,40,Turkey Istanbul Sabiha Gökçen International Airport,Turkey,16982456,2020
+41,41,China Xiamen Gaoqi International Airport,China,16710197,2020
+42,42,Thailand Suvarnabhumi Airport,Thailand,16706000,2020
+43,43,United States John F. Kennedy International Airport,United States,16630642,2020
+44,44,China Guiyang Longdongbao International Airport,China,16583878,2020
+45,45,China Haikou Meilan International Airport,China,16490216,2020
+46,46,United States Fort Lauderdale–Hollywood International Airport,United States,16484132,2020
+47,47,United States San Francisco International Airport,United States,16409625,2020
+48,48,Russia Moscow Domodedovo Airport,Russia,16300000,2020
+49,49,China Beijing Daxing International Airport,China,16091449,2020
+50,50,United States Newark Liberty International Airport,United States,15892892,2020
+1,51,United States Hartsfield–Jackson Atlanta International Airport,United States,110531300,2019
+2,52,China Beijing Capital International Airport,China,100011438,2019
+3,53,United States Los Angeles International Airport,United States,88068013,2019
+4,54,United Arab Emirates Dubai International Airport,United Arab Emirates,86396757,2019
+5,55,Japan Tokyo Haneda Airport,Japan,85505054,2019
+6,56,United States O'Hare International Airport,United States,84372618,2019
+7,57,United Kingdom Heathrow Airport,United Kingdom,80888305,2019
+8,58,China Shanghai Pudong International Airport,China,76153455,2019
+9,59,France Charles de Gaulle Airport,France,76150009,2019
+10,60,United States Dallas/Fort Worth International Airport,United States,75066956,2019
+11,61,China Guangzhou Baiyun International Airport,China,73378475,2019
+12,62,Netherlands Amsterdam Airport Schiphol,Netherlands,71706999,2019
+13,63,Hong Kong Hong Kong International Airport,"Hong Kong SAR, China",71415245,2019
+14,64,South Korea Seoul Incheon International Airport,South Korea,71204153,2019
+15,65,Germany Frankfurt Airport,Germany,70556072,2019
+16,66,United States Denver International Airport,United States,69015703,2019
+17,67,India Indira Gandhi International Airport,India,68490731,2019
+18,68,Singapore Singapore Changi Airport,Singapore,68283000,2019
+19,69,Thailand Suvarnabhumi Airport,Thailand,65421844,2019
+20,70,United States John F. Kennedy International Airport,United States,62551072,2019
+21,71,Malaysia Kuala Lumpur International Airport,Malaysia,62336469,2019
+22,72,Spain Madrid Barajas Airport,Spain,61707469,2019
+23,73,United States San Francisco International Airport,United States,57418574,2019
+24,74,China Chengdu Shuangliu International Airport,China,55858552,2019
+25,75,Indonesia Soekarno–Hatta International Airport,Indonesia,54496625,2019
+26,76,China Shenzhen Bao'an International Airport,China,52931925,2019
+27,77,Spain Barcelona–El Prat Airport,Spain,52663623,2019
+28,78,Turkey Istanbul Airport,Turkey,52009220,2019
+29,79,United States Seattle–Tacoma International Airport,United States,51829239,2019
+30,80,United States McCarran International Airport,United States,51691066,2019
+31,81,United States Orlando International Airport,United States,50613072,2019
+32,82,Canada Toronto Pearson International Airport,Canada,50496804,2019
+33,83,Mexico Mexico City International Airport,Mexico,50308049,2019
+34,84,United States Charlotte Douglas International Airport,United States,50168783,2019
+35,85,Russia Sheremetyevo International Airport,Russia,49932752,2019
+36,86,Taiwan Taiwan Taoyuan International Airport,Taiwan,48689372,2019
+37,87,China Kunming Changshui International Airport,China,48076238,2019
+38,88,Germany Munich Airport,Germany,47941348,2019
+39,89,Philippines Ninoy Aquino International Airport,Philippines,47898046,2019
+40,90,China Xi'an Xianyang International Airport,China,47220547,2019
+41,91,India Chhatrapati Shivaji Maharaj International Airport,India,47055740,2019
+42,92,United Kingdom London Gatwick Airport,United Kingdom,46576473,2019
+43,93,United States Newark Liberty International Airport,United States,46336452,2019
+44,94,United States Phoenix Sky Harbor International Airport,United States,46287790,2019
+45,95,United States Miami International Airport,United States,45924466,2019
+46,96,China Shanghai Hongqiao International Airport,China,45637882,2019
+47,97,United States George Bush Intercontinental Airport,United States,44990399,2019
+48,98,China Chongqing Jiangbei International Airport,China,44786722,2019
+49,99,Australia Sydney Kingsford-Smith Airport,Australia,44446838,2019
+50,100,Japan Narita International Airport,Japan,44340847,2019
+1,101,United States Hartsfield–Jackson Atlanta International Airport,United States,107394029,2018
+2,102,China Beijing Capital International Airport,China,100983290,2018
+3,103,United Arab Emirates Dubai International Airport,United Arab Emirates,89149387,2018
+4,104,United States Los Angeles International Airport,United States,87534384,2018
+5,105,Japan Tokyo Haneda Airport,Japan,87502720,2018
+6,106,United States O'Hare International Airport,United States,83339186,2018
+7,107,United Kingdom Heathrow Airport,United Kingdom,80126320,2018
+8,108,Hong Kong Hong Kong International Airport,"Hong Kong SAR, China",74517402,2018
+9,109,China Shanghai Pudong International Airport,China,74006331,2018
+10,110,France Charles de Gaulle Airport,France,72229723,2018
+11,111,Netherlands Amsterdam Airport Schiphol,Netherlands,71053147,2018
+12,112,India Indira Gandhi International Airport,India,69900938,2018
+13,113,China Guangzhou Baiyun International Airport,China,69769497,2018
+14,114,Germany Frankfurt Airport,Germany,69510269,2018
+15,115,United States Dallas/Fort Worth International Airport,United States,69112607,2018
+16,116,South Korea Seoul Incheon International Airport,South Korea,68350784,2018
+17,117,Turkey Istanbul Atatürk Airport,Turkey,68192683,2018
+18,118,Indonesia Soekarno–Hatta International Airport,Indonesia,66908159,2018
+19,119,Singapore Singapore Changi Airport,Singapore,65628000,2018
+20,120,United States Denver International Airport,United States,64494613,2018
+21,121,Thailand Suvarnabhumi Airport,Thailand,63378923,2018
+22,122,United States John F. Kennedy International Airport,United States,61623756,2018
+23,123,Malaysia Kuala Lumpur International Airport,Malaysia,60013397,2018
+24,124,Spain Madrid Barajas Airport,Spain,57862951,2018
+25,125,United States San Francisco International Airport,United States,57708196,2018
+26,126,China Chengdu Shuangliu International Airport,China,52950529,2018
+27,127,Spain Barcelona–El Prat Airport,Spain,50148228,2018
+28,128,India Chhatrapati Shivaji Maharaj International Airport,India,49876769,2018
+29,129,United States McCarran International Airport,United States,49863090,2018
+30,130,United States Seattle–Tacoma International Airport,United States,49849520,2018
+31,131,Canada Toronto Pearson International Airport,Canada,49467097,2018
+32,132,China Shenzhen Bao'an International Airport,China,49348950,2018
+33,133,Mexico Mexico City International Airport,Mexico,47700834,2018
+34,134,United States Orlando International Airport,United States,47694573,2018
+35,135,China Kunming Changshui International Airport,China,47215986,2018
+36,136,Taiwan Taiwan Taoyuan International Airport,Taiwan,46535180,2018
+37,137,United States Charlotte Douglas International Airport,United States,46446721,2018
+38,138,United Kingdom London Gatwick Airport,United Kingdom,46432630,2018
+39,139,Germany Munich Airport,Germany,46253623,2018
+40,140,United States Newark Liberty International Airport,United States,46065175,2018
+41,141,Russia Sheremetyevo International Airport,Russia,45836255,2018
+42,142,United States Miami International Airport,United States,45044312,2018
+43,143,United States Phoenix Sky Harbor International Airport,United States,44943686,2018
+44,144,China Xi'an Xianyang International Airport,China,44653927,2018
+45,145,Philippines Ninoy Aquino International Airport,Philippines,44488321,2018
+46,146,Australia Sydney Kingsford-Smith Airport,Australia,44475976,2018
+47,147,United States George Bush Intercontinental Airport,United States,43807539,2018
+48,148,China Shanghai Hongqiao International Airport,China,43628004,2018
+49,149,"Italy Rome–Fiumicino International Airport ""Leonardo da Vinci""",Italy,42991056,2018
+50,150,Japan Narita International Airport,Japan,42549173,2018
