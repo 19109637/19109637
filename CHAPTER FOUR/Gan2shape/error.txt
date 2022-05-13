@@ -1,0 +1,63 @@
+
+admin@MSI MINGW64 ~/GAN2Shape (main)
+$ source activate
+(base)
+admin@MSI MINGW64 ~/GAN2Shape (main)
+$ conda activate new3d
+(new3d)
+admin@MSI MINGW64 ~/GAN2Shape (main)
+$ sh scripts/run_car.sh
+Load config from yml file: configs/car.yml
+Loading configs from configs/car.yml
+Load config from yml file: configs/car.yml
+Loading configs from configs/car.yml
+Load config from yml file: configs/car.yml
+Loading configs from configs/car.yml
+Load config from yml file: configs/car.yml
+Loading configs from configs/car.yml
+Traceback (most recent call last):
+  File "run.py", line 26, in <module>
+    init_dist(args.launcher, backend='nccl')
+  File "C:\Users\admin\anaconda3\envs\new3d\lib\site-packages\mmcv\runner\dist_utils.py", line 18, in init_dist
+Traceback (most recent call last):
+  File "run.py", line 26, in <module>
+    init_dist(args.launcher, backend='nccl')
+  File "C:\Users\admin\anaconda3\envs\new3d\lib\site-packages\mmcv\runner\dist_utils.py", line 18, in init_dist
+    _init_dist_pytorch(backend, **kwargs)
+  File "C:\Users\admin\anaconda3\envs\new3d\lib\site-packages\mmcv\runner\dist_utils.py", line 32, in _init_dist_pytorch
+    _init_dist_pytorch(backend, **kwargs)
+  File "C:\Users\admin\anaconda3\envs\new3d\lib\site-packages\mmcv\runner\dist_utils.py", line 32, in _init_dist_pytorch
+    dist.init_process_group(backend=backend, **kwargs)
+AttributeError: module 'torch.distributed' has no attribute 'init_process_group'
+    dist.init_process_group(backend=backend, **kwargs)
+AttributeError: module 'torch.distributed' has no attribute 'init_process_group'
+Traceback (most recent call last):
+  File "run.py", line 26, in <module>
+    init_dist(args.launcher, backend='nccl')
+  File "C:\Users\admin\anaconda3\envs\new3d\lib\site-packages\mmcv\runner\dist_utils.py", line 18, in init_dist
+    _init_dist_pytorch(backend, **kwargs)
+  File "C:\Users\admin\anaconda3\envs\new3d\lib\site-packages\mmcv\runner\dist_utils.py", line 32, in _init_dist_pytorch
+    dist.init_process_group(backend=backend, **kwargs)
+AttributeError: module 'torch.distributed' has no attribute 'init_process_group'
+Traceback (most recent call last):
+  File "run.py", line 26, in <module>
+    init_dist(args.launcher, backend='nccl')
+  File "C:\Users\admin\anaconda3\envs\new3d\lib\site-packages\mmcv\runner\dist_utils.py", line 18, in init_dist
+    _init_dist_pytorch(backend, **kwargs)
+  File "C:\Users\admin\anaconda3\envs\new3d\lib\site-packages\mmcv\runner\dist_utils.py", line 32, in _init_dist_pytorch
+    dist.init_process_group(backend=backend, **kwargs)
+AttributeError: module 'torch.distributed' has no attribute 'init_process_group'
+Traceback (most recent call last):
+  File "C:\Users\admin\anaconda3\envs\new3d\lib\runpy.py", line 193, in _run_module_as_main
+    "__main__", mod_spec)
+  File "C:\Users\admin\anaconda3\envs\new3d\lib\runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "C:\Users\admin\anaconda3\envs\new3d\lib\site-packages\torch\distributed\launch.py", line 246, in <module>
+    main()
+  File "C:\Users\admin\anaconda3\envs\new3d\lib\site-packages\torch\distributed\launch.py", line 242, in main
+    cmd=cmd)
+subprocess.CalledProcessError: Command '['C:\\Users\\admin\\anaconda3\\envs\\new3d\\python.exe', '-u', 'run.py', '--local_rank=3', '--launcher', 'pytorch', '--config', 'configs/car.yml']' returned non-zero exit status 1.
+*****************************************
+Setting OMP_NUM_THREADS environment variable for each process to be 1 in default, to avoid your system being overloaded, please further tune the variable for optimal performance in your application as needed.
+*****************************************
+(new3d)
